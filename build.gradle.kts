@@ -21,8 +21,6 @@ dependencies {
         implementation("io.ktor:ktor-client-cio:2.2.2")
         implementation("io.ktor:ktor-client-okhttp:2.2.2")
         implementation("io.ktor:ktor-client-logging:2.2.2")
-        implementation("org.jetbrains.kotlin:kotlin-stdlib:1.4.30")
-        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3")
     }
 }
 
