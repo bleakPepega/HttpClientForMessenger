@@ -27,6 +27,6 @@ fun main() {
         }
     }.start(wait = true)
 }
-
+class Main
 
 
